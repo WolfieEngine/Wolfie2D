@@ -1,4 +1,4 @@
-import List from "../../DataTypes/List";
+import List from "../../DataTypes/Collections/List";
 
 // Create a suite using describe() for the class. In this case, the class is list
 describe("List", () => {

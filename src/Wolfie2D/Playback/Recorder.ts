@@ -1,4 +1,4 @@
-import Queue from "../DataTypes/Queue";
+import Queue from "../DataTypes/Collections/Queue";
 import Receiver from "../Events/Receiver";
 import GameEvent from "../Events/GameEvent";
 import EventQueue from "../Events/EventQueue";

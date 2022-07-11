@@ -1,4 +1,4 @@
-import Collection from "./Collection";
+import Collection from "../Interfaces/Collection";
 
 export default class BinaryHeapSet<T> implements Collection {
 
