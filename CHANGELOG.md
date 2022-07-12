@@ -32,10 +32,7 @@ This changelog is based on the [this](https://keepachangelog.com/en/1.0.0/) chan
     * RegionQuadTree.ts
     * Stack.ts
 
+## v2.0.0 - 05-20-2022
 
 ## v1.0.0 - 05-20-2021
-### Added
-* TBD
-### Fixes
-* TBD
-### Changes
+
