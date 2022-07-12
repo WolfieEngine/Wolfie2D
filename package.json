@@ -4,7 +4,8 @@
   "description": "A game engine written in TypeScript",
   "main": "./dist/main.js",
   "scripts": {
-    "test": "jest --verbose=false --noStackTrace --passWithNoTests"
+    "test": "jest --verbose=false --noStackTrace --passWithNoTests",
+    "build": "gulp build"
   },
   "author": "Joe Weaver",
   "license": "ISC",
